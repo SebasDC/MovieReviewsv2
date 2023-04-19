@@ -18,7 +18,7 @@
       min-height: 100vh;
     }
 
-    header {
+header {
   background-color: red;
   padding: 20px;
   text-align: center;
@@ -35,9 +35,8 @@ footer {
   gap: 20px;
   width: 100%; /* Add width: 100% */
   /*box-sizing: border-box; /* Add box-sizing: border-box */
-color: white;
+  color: white;
 }
-
 
 footer p {
   margin: 0; /* Remove margin from the paragraph */
@@ -50,7 +49,19 @@ body {
   flex-direction: column;
   min-height: 100vh;
   padding: 0;
-margin:0;
+  margin: 0;
+}
+
+.container {
+  flex: 1;
+  padding: 20px;
+}
+
+main img {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  margin-bottom: 20px;
 }
 
 main p {
@@ -67,29 +78,17 @@ main h2 {
   margin-bottom: 10px;
 }
 
-main img {
-  width: 100%;
-  max-width: 100%;
-  display: block;
-  margin-bottom: 20px;
-}
-
-    button {
-      background-color: transparent;
-      border: none;
-      color: white;
-      padding: 5px 32px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 40px;
-      margin: 2px 1px;
-      cursor: pointer;
-    }
-
-.content {
-  flex: 1;
-  padding: 20px;
+button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 2px 1px;
+  cursor: pointer;
 }
   </style>
 </head>
@@ -97,7 +96,7 @@ main img {
   <header>
     <h1>⭐️⭐️⭐️⭐️⭐️🍿</h1>
   </header>
-  <div class="content">
+  <div class="container"> <!-- Add this div -->
     <main>
       <img id="poster" alt="Movie poster" />
       <h2 id="movieTitle"></h2>
@@ -105,7 +104,7 @@ main img {
     </main>
   </div>
   <footer>
-    <p>© 2023 NR/NR</p>
+    <p>© 2023 NOT REAL/ NO REASON</p>
     <button onclick="location.href='mailto:contact@moviereviews.com'">🤝</button>
   </footer>
   <script>
