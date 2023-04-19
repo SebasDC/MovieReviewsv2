@@ -159,6 +159,39 @@ button {
       document.getElementById("review").innerText = randomReview.review;
       document.getElementById("poster").src = randomReview.imageUrl;
     }
+    function handleTouchStart(e) {
+  xDown = e.touches[0].clientX;
+}
+
+function handleTouchMove(e) {
+  if (!xDown) return;
+
+  const xUp = e.touches[0].clientX;
+  const xDiff = xDown - xUp;
+
+  if (Math.abs(xDiff) > 50) {
+    if (xDiff > 0) {
+      // Swipe left
+      if (window.location.pathname.includes('index.html')) {
+        window.location.href = 'video_games.html';
+      } else if (window.location.pathname.includes('video_games.html')) {
+        window.location.href = 'comics.html';
+      }
+    } else {
+      // Swipe right
+      if (window.location.pathname.includes('comics.html')) {
+        window.location.href = 'video_games.html';
+      } else if (window.location.pathname.includes('video_games.html')) {
+        window.location.href = 'index.html';
+      }
+    }
+    xDown = null;
+  }
+}
+
+document.addEventListener('touchstart', handleTouchStart, false);
+document.addEventListener('touchmove', handleTouchMove, false);
+
   </script>
 </body>
 </html>
