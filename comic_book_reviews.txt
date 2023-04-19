@@ -1,18 +1,46 @@
-Title: Manga
-Year: 1972
-ImageUrl: https://example.com/godfather-poster.jpg
-Review: The Godfather is a classic film that offers an insightful look into the world of organized crime in America. The exceptional acting and storytelling make it a must-see for any movie lover.
+Title: Saga
+Year: 2012
+ImageUrl: https://m.media-amazon.com/images/I/71a2KfLjetL.jpg
+Review: Saga is a groundbreaking space opera with a compelling story, rich characters, and stunning artwork. Its unique blend of genres and themes make it an instant classic. A must-read for comic book fans.
+
+---
+
+Title: Batman: The Court of Owls
+Year: 2012
+ImageUrl: https://static.wikia.nocookie.net/marvel_dc/images/3/3f/Court_of_Owls_008.jpg/revision/latest?cb=20120420180537
+Review: Batman: The Court of Owls is a thrilling and inventive story that delves deep into Gotham City's mythology. Its engaging plot and stunning artwork make it a modern Batman classic. Essential reading for fans of the Dark Knight.
+
+---
+
+Title: The Vision
+Year: 2015
+ImageUrl: https://m.media-amazon.com/images/I/81PDV+ivjdL.jpg
+Review: The Vision is a thought-provoking and emotionally charged exploration of what it means to be human. Its deep storytelling and haunting artwork make it a standout Marvel series. A captivating and profound read.
+
+---
+
+Title: The Wicked + The Divine
+Year: 2014
+ImageUrl: https://www.normaeditorial.com/upload/media/albumes/0001/06/708f1ba0e0e950e7d2ba21a4c6c920529f21fa3d.jpeg
+Review: The Wicked + The Divine is a stylish and inventive exploration of fame, mortality, and myth. Its unique premise and stunning artwork make it a must-read series. A captivating and visually striking comic.
+ 
+---
+
+Title: Paper Girls
+Year: 2015
+ImageUrl: https://m.media-amazon.com/images/I/81JP-q1vWnL.jpg
+Review: Paper Girls is an engaging, time-bending sci-fi adventure with a strong ensemble of characters. Its nostalgic atmosphere and intriguing story make it a standout series. A thrilling and beautifully illustrated comic book.
 
 ---
 
 Title: El Incal
-Year: 2000
-ImageUrl: https://example.com/another-movie-poster.jpg
+Year: 1988
+ImageUrl: https://m.media-amazon.com/images/I/81FaRzlZ65L.jpg
 Review: This is a sample review for another movie.
 
 ---
 
 Title: Punk Rock Jesus
-Year: 1994
-ImageUrl: https://product-image.juniqe-production.juniqe.com/media/catalog/product/seo-cache/x800/111/47/111-47-101P/Spiderman-Chungkong-Poster.jpg
-Review: An incredible story of hope and friendship. Beautifully crafted with stunning performances.
+Year: 2013
+ImageUrl: https://m.media-amazon.com/images/I/81PtTcwYMqL.jpg
+Review: An incredible story of hope and friendship. Beautifully crafted with stunning performances. TBC
