@@ -1,18 +1,55 @@
-Title: Super Mario
-Year: 1972
-ImageUrl: https://example.com/godfather-poster.jpg
-Review: The Godfather is a classic film that offers an insightful look into the world of organized crime in America. The exceptional acting and storytelling make it a must-see for any movie lover.
+Title: The Witcher 3: Wild Hunt
+Year: 2015
+ImageUrl: https://i.pinimg.com/originals/dc/6a/4e/dc6a4e4f224d18493fab54c9ff90d204.png
+Review: The Witcher 3: Wild Hunt is a sprawling, masterfully crafted RPG with a rich and immersive world. Its complex characters and morally ambiguous choices make for an unforgettable gaming experience. A must-play for fans of the genre.
 
 ---
 
-Title: Metal Gear Solid
-Year: 2000
-ImageUrl: https://example.com/another-movie-poster.jpg
-Review: This is a sample review for another movie.
+Title: The Legend of Zelda: Breath of the Wild
+Year: 2017
+ImageUrl: https://m.media-amazon.com/images/I/61gEETe5-wL.jpg
+Review: Breath of the Wild is a stunning open-world adventure that redefines the Zelda series. Its innovative gameplay and captivating exploration make it a modern classic. A breathtaking experience for gamers of all ages.
 
 ---
 
 Title: God of War
-Year: 1994
-ImageUrl: https://product-image.juniqe-production.juniqe.com/media/catalog/product/seo-cache/x800/111/47/111-47-101P/Spiderman-Chungkong-Poster.jpg
-Review: An incredible story of hope and friendship. Beautifully crafted with stunning performances.
+Year: 2018
+ImageUrl: https://cdn.shopify.com/s/files/1/1329/4595/products/Poster_202_3ee1d0d9-4715-4579-a72c-1ef55ec4c8ad_600x.jpg?v=1585104102
+Review: God of War is a powerful, character-driven story that masterfully reinvents the iconic franchise. Its fluid combat and stunning visuals make for an unforgettable gaming experience. A true masterpiece of the action-adventure genre.
+
+---
+
+Title: Red Dead Redemption 2
+Year: 2018
+ImageUrl: https://alternativemovieposters.com/wp-content/uploads/2019/06/marie_reddead.jpg
+Review: Red Dead Redemption 2 is a vast and immersive open-world western, filled with unforgettable characters and an engrossing story. Its meticulous attention to detail and stunning visuals make it a benchmark in gaming. A must-play epic.
+
+---
+
+Title: The Last of Us Part II
+Year: 2020
+ImageUrl: https://i.pinimg.com/originals/f9/89/2c/f9892c3b56c320a588bccd6674149ea6.png
+Review: The Last of Us Part II is a gripping, emotionally intense experience with unparalleled storytelling. Its nuanced characters and hauntingly beautiful world make it a truly unforgettable journey. A groundbreaking achievement in narrative-driven gaming.
+
+---
+
+Title: Hades
+Year: 2020
+ImageUrl: https://m.media-amazon.com/images/I/71FjVhf-SlL._AC_UF894,1000_QL80_.jpg
+Review: Hades is a stylish, addictive roguelike with a captivating narrative and deep gameplay. Its unique blend of Greek mythology and rich character development make it a standout title. A masterful indie game that's hard to put down.
+
+---
+
+Title: Doom Eternal
+Year: 2020
+ImageUrl: https://i.pinimg.com/originals/88/ca/6f/88ca6f571ed32c4b2727d5f0f5c5256d.jpg
+Review: Doom Eternal is a relentless, adrenaline-pumping experience that stays true to the franchise's roots. Its fast-paced combat and jaw-dropping visuals make for a thrilling ride. A must-play for fans of the first-person shooter genre.
+
+---
+
+Title: Hollow Knight
+Year: 2017
+ImageUrl: https://preview.redd.it/wanted-to-buy-a-hollow-knight-poster-but-surprisingly-v0-ohro7c8y2hi81.jpg?auto=webp&s=b1c6e09555f847bda6ff9325ce0b01b345854e24
+Review: Hollow Knight is a beautifully hand-drawn Metroidvania with challenging gameplay and a deeply atmospheric world. Its intricate level design and memorable characters make it an instant classic. A hauntingly enchanting experience not to be missed.
+
+---
