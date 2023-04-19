@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Reviews</title>
+  <style>
+    body {
+      background-color: black;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      padding: 20px;
+      margin: 0;
+    }
+
+    header {
+      background-color: red;
+      padding: 20px;
+      text-align: center;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    .content {
+      flex: 1;
+      padding: 20px;
+    }
+
+    main img {
+      width: 100%;
+      max-width: 300px;
+      display: block;
+      margin: 0 auto 20px;
+    }
+
+    h2 {
+      color: white;
+      font-size: 2em;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    p {
+      color: white;
+      font-size: 1.2em;
+      text-align: justify;
+    }
+
+    footer {
+      background-color: red;
+      padding: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    footer p {
+      margin: 0;
+    }
+
+    button {
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🍿 Movie Reviews</h1>
+  </header>
+  <div class="content">
+    <main>
+      <img id="poster" alt="Movie poster" />
+      <h2 id="movieTitle"></h2>
+      <p id="review"></p>
+    </main>
+  </div>
+  <footer>
+    <p>© 2023 Movie Reviews. All rights reserved.</p>
+    <button onclick="location.href='mailto:contact@moviereviews.com'">Contact</button>
+  </footer>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      fetchAndDisplayReviews();
+    });
+
+    async function fetchAndDisplayReviews() {
+      try {
+        const response = await fetch("reviews.txt");
+        const data = await response.text();
+        const movieReviews = parseReviews(data);
+        displayReview(movieReviews);
+      } catch (error) {
+        console.error("Error fetching reviews:", error);
+      }
+    }
+
+    function parseReviews(data) {
+      const reviewEntries = data.split("---").filter((entry) => entry.trim());
+      const movieReviews = [];
+
+      reviewEntries.forEach((entry) => {
+        const lines = entry.trim().split("\n");
+        const title = lines[0].split(": ")[1];
+        const year = parseInt(lines[1].split(": ")[1]);
+        const imageUrl = lines[2].split(": ")[1];
+        const review = lines[3].split(": ")[1];
+        movieReviews.push({ title, year, imageUrl, review });
+      });
+      return movieReviews;
+    }
+
+    function getRandomReview(movieReviews) {
+      return movieReviews[Math.floor(Math.random() * movieReviews.length)];
+    }
+
+    function displayReview(movieReviews) {
+      const randomReview = getRandomReview(movieReviews);
+      const movieTitle = `${randomReview.title} (${randomReview.year})`;
+      document.getElementById("movieTitle").innerText = movieTitle;
+      document.getElementById("review").innerText = randomReview.review;
+      document.getElementById("poster").src = randomReview.imageUrl;
+    }
+  </script>
+</body>
+</html>
