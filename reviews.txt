@@ -1,14 +1,14 @@
 Title: The Godfather
 Year: 1972
-ImageUrl: https://example.com/godfather-poster.jpg
+ImageUrl: https://cdn.shopify.com/s/files/1/0969/9128/products/Movie_Poster_Art_-_The_Godfather_-_Tallenge_Hollywood_Poster_Collection_ee6c3646-7af6-4aab-9c23-20b78dc5b617.jpg?v=1570156520
 Review: The Godfather is a classic film that offers an insightful look into the world of organized crime in America. The exceptional acting and storytelling make it a must-see for any movie lover.
 
 ---
 
-Title: Another Movie
-Year: 2000
-ImageUrl: https://example.com/another-movie-poster.jpg
-Review: This is a sample review for another movie.
+Title: Green Book
+Year: 2018
+ImageUrl: https://posterspy.com/wp-content/uploads/2021/06/Greenbook-poster.jpg
+Review: Green Book is an engaging, heartwarming story about an unlikely friendship amidst racial tensions. The performances by Viggo Mortensen and Mahershala Ali are remarkable. A feel-good film that tackles serious themes.
 
 ---
 
@@ -16,3 +16,61 @@ Title: Spiderman
 Year: 1994
 ImageUrl: https://product-image.juniqe-production.juniqe.com/media/catalog/product/seo-cache/x800/111/47/111-47-101P/Spiderman-Chungkong-Poster.jpg
 Review: An incredible story of hope and friendship. Beautifully crafted with stunning performances.
+
+---
+
+Title: Parasite
+Year: 2019
+ImageUrl: https://i.guim.co.uk/img/media/5ffb21acbde4a0cb2adfb50b10147a999b43569c/0_0_1370_2048/master/1370.jpg?width=700&quality=85&auto=format&fit=max&s=91ceaeaacd21cc7fcbb3cc9c3d2e238c
+Review: A masterclass in storytelling, Parasite provides a thrilling and thought-provoking examination of social inequality. Bong Joon-ho's direction is both clever and meticulous. A must-watch for cinema enthusiasts.
+
+---
+
+Title: The Shape of Water
+Year: 2017
+ImageUrl: https://static01.nyt.com/images/2017/11/05/arts/05shapewater2/05shapewater2-superJumbo.jpg
+Review: Guillermo del Toro's The Shape of Water is a visually stunning, unconventional love story. Sally Hawkins delivers a powerful performance in this romantic, fairy-tale-like film. A beautiful exploration of love, empathy, and acceptance.
+
+---
+
+Title: Moonlight
+Year: 2016
+ImageUrl: https://i5.walmartimages.com/asr/1cdc2368-5c88-474e-a0a0-cd1748a1632c.b69ebc76d6ea0e4756975f42bf8cf728.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
+Review: Moonlight is a poetic and intimate portrayal of a young man's struggle with identity and self-acceptance. The film's triptych structure and exquisite cinematography make it a true work of art. A touching and profoundly human story.
+
+---
+
+Title: Spotlight
+Year: 2015
+ImageUrl: https://picfiles.alphacoders.com/126/126494.jpg
+Review: Spotlight is a gripping, well-crafted drama that sheds light on the importance of investigative journalism. The ensemble cast delivers powerful performances, and the screenplay is both smart and sensitive. A timely and essential film.
+
+---
+
+Title: Birdman
+Year: 2014
+ImageUrl: https://www.vintagemovieposters.co.uk/wp-content/uploads/2020/06/IMG_8193-scaled.jpeg
+Review: Birdman is an audacious, darkly comedic exploration of fame and artistic integrity. The innovative "one-shot" cinematography and outstanding performances create a unique cinematic experience. A thought-provoking, surreal masterpiece.
+
+---
+
+Title: 12 Years a Slave
+Year: 2013
+ImageUrl: https://i.icanvas.com/CKG271?d=2&sh=v&p=1&bg=g
+Review: 12 Years a Slave is a harrowing, unflinching look at American slavery. Chiwetel Ejiofor's powerful performance anchors this emotionally intense film. A sobering, unforgettable, and important piece of cinema.
+
+---
+
+Title: Argo
+Year: 2012
+ImageUrl: https://i.pinimg.com/originals/f0/f0/43/f0f043813d2b5d0f5c89c85e99bad9ca.png
+Review: Argo is a thrilling, edge-of-your-seat depiction of a little-known historical event. Ben Affleck's direction is taut and focused, and the ensemble cast is superb. A suspenseful, engaging, and entertaining film.
+
+---
+
+Title: The King's Speech
+Year: 2010
+ImageUrl: https://i.pinimg.com/originals/a2/60/bb/a260bb8195a3e88ce54aca3d11452b06.jpg
+Review: The King's Speech is an inspiring and moving story of personal triumph, with exceptional performances by Colin Firth and Geoffrey Rush. Its well-paced narrative and historical accuracy make it a standout period drama. A compelling and satisfying film.
+
+---
