@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Game Reviews</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Rock+Salt&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+header {
+  background-color: #DC143C;
+  padding: 20px;
+  text-align: center;
+  width: 100%; /* Add width: 100% */
+  /*box-sizing: border-box; /* Add box-sizing: border-box */
+}
+
+footer {
+  background-color: #DC143C;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 100%; /* Add width: 100% */
+  /*box-sizing: border-box; /* Add box-sizing: border-box */
+  color: white;
+}
+
+footer p {
+  margin: 0; /* Remove margin from the paragraph */
+  font-family: 'Playfair Display', serif;
+  font-size: 0.8rem;
+}
+
+body {
+  background-color: black;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  flex: 1;
+  padding: 20px;
+}
+
+main img {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+main p {
+  font-size: 1rem;
+  text-align: justify;
+  color: white;
+  margin: 10px;
+}
+
+main h2 {
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
+  </style>
+</head>
+<body>
+  <header>
+  <h1><a href="javascript:location.reload()" style="text-decoration: none;">⭐️⭐️⭐️⭐️⭐️👾</a></h1>
+</header>
+  <div class="container"> <!-- Add this div -->
+    <main>
+      <img id="poster" alt="Movie poster" />
+      <h2 id="movieTitle"></h2>
+      <p id="review"></p>
+    </main>
+  </div>
+  <footer>
+    <p>© 2023 NOT REAL/ NO REASON</p>
+    <button onclick="location.href='mailto:contact@moviereviews.com'">🤝</button>
+  </footer>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      fetchAndDisplayReviews();
+    });
+
+    async function fetchAndDisplayReviews() {
+      try {
+        const response = await fetch("video_games_reviews.txt");
+        const data = await response.text();
+        const movieReviews = parseReviews(data);
+        displayReview(movieReviews);
+      } catch (error) {
+        console.error("Error fetching reviews:", error);
+      }
+    }
+
+    function parseReviews(data) {
+      const reviewEntries = data.split("---").filter((entry) => entry.trim());
+      const movieReviews = [];
+
+      reviewEntries.forEach((entry) => {
+        const lines = entry.trim().split("\n");
+        const title = lines[0].split(": ")[1];
+        const year = parseInt(lines[1].split(": ")[1]);
+        const imageUrl = lines[2].split(": ")[1];
+        const review = lines[3].split(": ")[1];
+        movieReviews.push({ title, year, imageUrl, review });
+      });
+      return movieReviews;
+    }
+
+    function getRandomReview(movieReviews) {
+      return movieReviews[Math.floor(Math.random() * movieReviews.length)];
+    }
+
+    function displayReview(movieReviews) {
+      const randomReview = getRandomReview(movieReviews);
+      const movieTitle = `${randomReview.title} (${randomReview.year})`;
+      document.getElementById("movieTitle").innerText = movieTitle;
+      document.getElementById("review").innerText = randomReview.review;
+      document.getElementById("poster").src = randomReview.imageUrl;
+    }
+    function handleTouchStart(e) {
+  xDown = e.touches[0].clientX;
+}
+
+function handleTouchMove(e) {
+  if (!xDown) return;
+
+  const xUp = e.touches[0].clientX;
+  const xDiff = xDown - xUp;
+
+  if (Math.abs(xDiff) > 50) {
+    if (xDiff > 0) {
+      // Swipe left
+      if (window.location.pathname.includes('index.html')) {
+        window.location.href = 'video_games.html';
+      } else if (window.location.pathname.includes('video_games.html')) {
+        window.location.href = 'comics.html';
+      }
+    } else {
+      // Swipe right
+      if (window.location.pathname.includes('comics.html')) {
+        window.location.href = 'video_games.html';
+      } else if (window.location.pathname.includes('video_games.html')) {
+        window.location.href = 'index.html';
+      }
+    }
+    xDown = null;
+  }
+}
+
+document.addEventListener('touchstart', handleTouchStart, false);
+document.addEventListener('touchmove', handleTouchMove, false);
+
+  </script>
+</body>
+</html>
