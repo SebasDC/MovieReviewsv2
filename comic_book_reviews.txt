@@ -49,84 +49,161 @@ Review: Punk Rock Jesus is a thought-provoking, genre-defying series that blends
 
 Title: Tank Girl
 Year: 1988
-ImageUrl: https://example.com/tank-girl-poster.jpg
+ImageUrl: https://live.staticflickr.com/52/186603678_12afb0e478_b.jpg
 Review: Tank Girl is a wildly inventive, punk-inspired series with a unique sense of humor and style. Its anarchic storytelling and distinctive artwork make it a cult classic. A chaotic and entertaining romp for mature readers.
 
 ---
 
 Title: Sandman
 Year: 1989
-ImageUrl: https://example.com/sandman-poster.jpg
+ImageUrl: https://bleedingcool.com/2018/07/06/dave-mckean-cover-sandman-universe/sandman-universe-1-dave-mckean/
 Review: Sandman is a groundbreaking series that masterfully weaves mythology, history, and dream logic. Its rich narrative and unforgettable characters make it an essential read. A hauntingly beautiful and deeply imaginative work of fiction.
 
 ---
 
 Title: V for Vendetta
 Year: 1982
-ImageUrl: https://example.com/v-for-vendetta-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/71f7i5dHDSL.jpg
 Review: V for Vendetta is a powerful, thought-provoking exploration of oppression, revolution, and the human spirit. Its engaging story and striking artwork make it a classic. A must-read for fans of dystopian fiction and political allegory.
 
 ---
 
 Title: Swamp Thing
 Year: 1984
-ImageUrl: https://example.com/swamp-thing-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/91ZVds1T1iL.jpg
 Review: Swamp Thing is a rich, atmospheric series that delves into the heart of nature, humanity, and horror. Its evocative storytelling and lush artwork make it a standout comic. A compelling and poetic journey into the unknown.
 
 ---
 
 Title: The House on the Lake
 Year: 2021
-ImageUrl: https://example.com/the-house-on-the-lake-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/81HAUm614iS.jpg
 Review: The House on the Lake is a gripping, psychological thriller with a chilling atmosphere. Its intricate plot and moody artwork make it a standout series. A tense and enthralling mystery that keeps readers on edge.
 
 ---
 
 Title: Prophet
 Year: 2012
-ImageUrl: https://example.com/prophet-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/81yNnbZt-gL.jpg
 Review: Prophet is a visually striking, futuristic series with a unique and engaging protagonist. Its imaginative storytelling and detailed artwork make it a standout title from Image Comics. A captivating and thought-provoking journey through a strange new world.
 
 ---
 
 Title: Providence
 Year: 2015
-ImageUrl: https://example.com/providence-poster.jpg
+ImageUrl: https://factsprovidence.files.wordpress.com/2015/03/providence05-pantheon.jpg
 Review: Providence is a masterful, Lovecraftian horror series that delves deep into cosmic dread and psychological terror. Its intricate narrative and atmospheric artwork make it a hauntingly engrossing read. A chilling and immersive experience for fans of the horror genre.
 
 ---
 
 Title: Necronomicon
 Year: 2008
-ImageUrl: https://example.com/necronomicon-poster.jpg
+ImageUrl: https://factsprovidence.files.wordpress.com/2015/04/neonomicon1sdcc.jpeg?w=700
 Review: Necronomicon is a dark, Lovecraft-inspired series that explores the terrifying mythos of the ancient grimoire. Its eerie storytelling and detailed artwork create a gripping and unsettling atmosphere. A spine-chilling read for fans of cosmic horror.
 
 ---
 
 Title: Watchmen
 Year: 1986
-ImageUrl: https://example.com/watchmen-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/81nqASLZU5L.jpg
 Review: Watchmen is a groundbreaking, genre-defining series that reimagines the superhero mythos in a dark and complex world. Its engaging story, unforgettable characters, and innovative artwork make it a classic. A must-read for fans of thought-provoking, mature storytelling.
 
 ---
 
 Title: Rashomon
 Year: 2017
-ImageUrl: https://example.com/rashomon-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/91PTuO2qACL.jpg
 Review: Rashomon is a visually stunning adaptation of Akutagawa's classic short stories, exploring themes of truth and perception. Its evocative artwork and engaging narrative make it a standout series. A captivating and artistic homage to a literary masterpiece.
 
 ---
 
 Title: Kaiju No. 8
 Year: 2020
-ImageUrl: https://example.com/kaiju-no-8-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/81IgJ1cGaWS.jpg
 Review: Kaiju No. 8 is an action-packed manga that blends elements of science fiction, horror, and humor. Its engaging characters and dynamic artwork make it a standout series. A thrilling and entertaining read for fans of monster-fighting adventures.
 
 ---
 
 Title: Chainsaw Man
 Year: 2018
-ImageUrl: https://example.com/chainsaw-man-poster.jpg
+ImageUrl: https://upload.wikimedia.org/wikipedia/en/2/24/Chainsawman.jpg
 Review: Chainsaw Man is a dark, action-packed series with a unique blend of horror, comedy, and heart. Its compelling story, unforgettable characters, and stylish artwork make it a standout manga. A wild, unpredictable ride that keeps readers on the edge of their seats.
+
+---
+
+Title: 20th Century Boys
+Year: 1999
+ImageUrl: https://m.media-amazon.com/images/I/91w+aQVuEyL.jpg
+Review: 20th Century Boys is a gripping, intricate thriller that explores themes of nostalgia, friendship, and destiny. Its complex narrative and well-developed characters make it a standout manga. A captivating and thought-provoking read.
+
+---
+
+Title: Akira
+Year: 1982
+ImageUrl: https://pbs.twimg.com/media/Eqv66QTXEAE8riR.jpg:large
+Review: Akira is a groundbreaking cyberpunk manga that explores themes of power, corruption, and the human condition. Its epic scope, striking visuals, and deep narrative make it a classic. A must-read for fans of science fiction.
+
+---
+
+Title: Pluto
+Year: 2003
+ImageUrl: https://m.media-amazon.com/images/I/51ezj2hRhGL._SX359_BO1,204,203,200_.jpg
+Review: Pluto is a masterful reimagining of Osamu Tezuka's Astro Boy, focusing on themes of identity and humanity. Its compelling story and rich artwork make it a standout manga. A thought-provoking and engaging read.
+
+---
+
+Title: Transmetropolitan
+Year: 1997
+ImageUrl: https://m.media-amazon.com/images/I/91z35OMFKeL.jpg
+Review: Transmetropolitan is a razor-sharp, darkly comedic exploration of a dystopian future. Its biting satire and unforgettable protagonist make it a standout series. A must-read for fans of cyberpunk and political commentary.
+
+---
+
+Title: Berserk
+Year: 1989
+ImageUrl: https://i1.whakoom.com/large/07/11/fa0735b64f634c74b5224a6481e51412.jpg
+Review: Berserk is a dark, brutal fantasy epic with complex characters and a rich, sprawling world. Its intense storytelling and breathtaking artwork make it a classic manga. A gripping and visceral experience for mature readers.
+
+---
+
+Title: Ronin
+Year: 1983
+ImageUrl: https://example.com/ronin-poster.jpg
+Review: Ronin is a visually striking, genre-blending tale that combines elements of samurai and cyberpunk. Its atmospheric storytelling and innovative artwork make it a standout series. A unique and memorable comic book.
+
+---
+
+Title: Sin City
+Year: 1991
+ImageUrl: https://example.com/sin-city-poster.jpg
+Review: Sin City is a gritty, noir-inspired series set in a dark and unforgiving world. Its stark black-and-white artwork and compelling stories make it a classic. A must-read for fans of crime fiction and noir.
+
+---
+
+Title: 300
+Year: 1998
+ImageUrl: https://example.com/300-poster.jpg
+Review: 300 is a visually stunning, stylized retelling of the Battle of Thermopylae. Its dynamic artwork and gripping narrative make it an iconic series. A powerful and evocative work of historical fiction.
+
+---
+
+Title: Tokyo Ghost
+Year: 2015
+ImageUrl: https://example.com/tokyo-ghost-poster.jpg
+Review: Tokyo Ghost is a visually arresting, cyberpunk series that explores themes of addiction and escapism. Its engaging story and stunning artwork make it a standout comic. A must-read for fans of dystopian fiction.
+
+---
+
+Title: Black Science
+Year: 2013
+ImageUrl: https://example.com/black-science-poster.jpg
+Review: Black Science is a mind-bending, sci-fi adventure with a rich, multiverse-spanning narrative. Its complex characters and stunning artwork make it an engrossing series. A thrilling and imaginative journey through the unknown.
+
+---
+
+Title: Hellboy
+Year: 1993
+ImageUrl: https://example.com/hellboy-poster.jpg
+Review: Hellboy is a dark, supernatural series with a rich mythos and an unforgettable protagonist. Its moody atmosphere and captivating storytelling make it a classic. A must-read for fans of horror and folklore.
 
 ---
