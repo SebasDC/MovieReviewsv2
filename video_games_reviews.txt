@@ -180,3 +180,58 @@ Review: Papers, Please is a thought-provoking, dystopian simulation game that pu
 
 ---
 
+Title: The Stanley Parable
+Year: 2013
+ImageUrl: https://vgboxart.com/boxes/PC/77235-the-stanley-parable.png
+Review: The Stanley Parable is a clever, meta-narrative exploration game that challenges players' assumptions about choice and storytelling in video games. Its witty writing, engaging narrative, and unique concept make it a standout title. A thought-provoking and entertaining experience for fans of unconventional games.
+
+---
+
+Title: Untitled Goose Game
+Year: 2019
+ImageUrl: https://image.api.playstation.com/vulcan/img/rnd/202009/0405/zqpKTik58BHcclOYA7YUnh4S.png
+Review: Untitled Goose Game is a whimsical, lighthearted puzzle-stealth game that casts players as a mischievous goose. Its charming visuals, quirky humor, and satisfying gameplay make it a standout title. A delightful and hilarious experience for players of all ages.
+
+---
+
+Title: Cuphead
+Year: 2017
+ImageUrl: https://howlongtobeat.com/games/cuphead-250.jpg
+Review: Cuphead is a challenging, visually stunning run-and-gun game inspired by classic 1930s cartoons. Its unique art style, tight controls, and punishing difficulty make it a standout title. A must-play for fans of challenging platformers and retro aesthetics.
+
+---
+
+Title: The Witness
+Year: 2016
+ImageUrl: https://m.media-amazon.com/images/M/MV5BZjRhYzg5YWItMzEyNi00Y2Y2LTk3ZTgtZjhjN2U4NzQzMDYyXkEyXkFqcGdeQXVyNzUzNTQ2MjQ@._V1_FMjpg_UX1000_.jpg
+Review: The Witness is a beautifully crafted, open-world puzzle game that challenges players to explore and unravel its mysteries. Its vibrant visuals, innovative puzzles, and immersive atmosphere make it a standout title. A rewarding and contemplative experience for fans of intellectual challenges.
+
+---
+
+Title: Firewatch
+Year: 2016
+ImageUrl: https://m.media-amazon.com/images/M/MV5BZGI5Njg5M2QtZGNlNC00MGUzLWExMGYtNmUwMTJlZWI1NGE4XkEyXkFqcGdeQXVyNTQ1MzAwODA@._V1_.jpg
+Review: Firewatch is a narrative-driven, first-person adventure game that expertly weaves together themes of isolation, connection, and personal growth. Its engaging story, memorable characters, and stunning visuals make it a standout title. A must-play for fans of immersive storytelling and atmospheric experiences.
+
+---
+
+Title: Oxenfree
+Year: 2016
+ImageUrl: https://howlongtobeat.com/games/Oxenfree_header.jpg
+Review: Oxenfree is a supernatural, narrative-driven adventure game that blends mystery, horror, and coming-of-age themes. Its engaging story, innovative dialogue system, and evocative visuals make it a standout title. A captivating and emotional experience for fans of atmospheric, story-driven games.
+
+---
+
+Title: Superhot
+Year: 2016
+ImageUrl: https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2656.jpg
+Review: Superhot is a stylish, innovative first-person shooter that cleverly blends action and puzzle elements. Its unique time-manipulation mechanics, minimalist visuals, and engaging gameplay make it a standout title. A must-play for fans of both shooters and puzzle games.
+
+---
+
+Title: Return of the Obra Dinn
+Year: 2018
+ImageUrl: https://images.gog-statics.com/7c3cd03ed91a1500220ab762323f675e1bf75336f971955f5a3472cb8411bee0.jpg
+Review: Return of the Obra Dinn is a brilliantly designed, detective-style puzzle game set aboard a mysterious ghost ship. Its striking monochromatic visuals, innovative mechanics, and captivating narrative make it a standout title. A challenging and immersive experience for fans of mystery and deduction.
+
+---
