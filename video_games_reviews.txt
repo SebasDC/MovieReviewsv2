@@ -119,63 +119,64 @@ Review: Elden Ring is an expansive, masterfully crafted action RPG that combines
 
 Title: Undertale
 Year: 2015
-ImageUrl: https://example.com/undertale-poster.jpg
+ImageUrl: https://i.pinimg.com/originals/b1/21/d3/b121d384fea416131d1b2f64daa8c489.png
 Review: Undertale is a charming, subversive RPG that explores themes of friendship, morality, and choice. Its engaging story, memorable characters, and innovative mechanics make it a standout title. A heartwarming and unique experience for fans of RPGs and story-driven games.
 
 ---
 
 Title: Journey
 Year: 2012
-ImageUrl: https://example.com/journey-poster.jpg
+ImageUrl: https://i.pinimg.com/736x/59/8c/cc/598ccc2ee7b564e4fe5c1a6cb7b8c372.jpg
 Review: Journey is a breathtaking, wordless adventure that explores themes of connection, wonder, and the passage of time. Its stunning visuals, evocative music, and emotional storytelling make it a standout game. A beautiful and meditative experience for players of all ages.
 
 ---
 
 Title: Shadow of the Colossus
 Year: 2005
-ImageUrl: https://example.com/shadow-of-the-colossus-poster.jpg
+ImageUrl: https://image.api.playstation.com/vulcan/img/rnd/202010/2823/13c4K2rs7knjs7aMjTAL4mib.png
 Review: Shadow of the Colossus is an atmospheric, minimalist adventure that challenges players to confront massive, mysterious creatures. Its haunting world, innovative gameplay, and powerful story make it a classic. A must-play for fans of atmospheric, emotional gaming experiences.
 
 ---
 
 Title: Metal Gear Solid
 Year: 1998
-ImageUrl: https://example.com/metal-gear-solid-poster.jpg
+ImageUrl: https://i.etsystatic.com/14213179/r/il/b883c8/2812959219/il_570xN.2812959219_5ld2.jpg
 Review: Metal Gear Solid is a groundbreaking stealth-action game that masterfully blends cinematic storytelling, complex characters, and engaging gameplay. Its iconic protagonist, intricate narrative, and innovative mechanics make it a classic. A must-play for fans of stealth games and narrative-driven experiences.
 
 ---
 
 Title: Stardew Valley
 Year: 2016
-ImageUrl: https://example.com/stardew-valley-poster.jpg
+ImageUrl: https://assets.altarofgaming.com/wp-content/uploads/2022/03/stardew-valley-poster-altar-of-gaming-727x1024.jpg
 Review: Stardew Valley is a charming, addictive farming sim that transports players to a relaxing, rural world. Its deep gameplay mechanics, vibrant characters, and delightful pixel art make it a standout title. A must-play for fans of life-simulation games and pixel art.
 
 ---
 
 Title: Super Meat Boy
 Year: 2010
-ImageUrl: https://example.com/super-meat-boy-poster.jpg
+ImageUrl: https://art.ngfiles.com/images/114000/114735_bluebaby_super-meat-boy-comic-cover-2-5.jpg?f1277287602
 Review: Super Meat Boy is a challenging, fast-paced platformer with tight controls, addictive gameplay, and a quirky sense of humor. Its punishing difficulty and memorable levels make it a standout title. A must-play for fans of hardcore platformers and speedrunners.
 
 ---
 
 Title: Limbo
 Year: 2010
-ImageUrl: https://example.com/limbo-poster.jpg
+ImageUrl: https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/0cd3b54a7d3b2574518e1bf717574ca3.jpg
 Review: Limbo is a haunting, atmospheric puzzle-platformer with a minimalist aesthetic and a powerful sense of mystery. Its evocative visuals, engaging puzzles, and immersive sound design make it a standout title. A must-play for fans of atmospheric, puzzle-driven experiences.
 
 ---
 
 Title: Inside
 Year: 2016
-ImageUrl: https://example.com/inside-poster.jpg
+ImageUrl: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/632d0779-8806-4c79-94f1-18800159351e/daa747m-025ba951-e2d6-43c3-8cfc-8b5bfda57320.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzMmQwNzc5LTg4MDYtNGM3OS05NGYxLTE4ODAwMTU5MzUxZVwvZGFhNzQ3bS0wMjViYTk1MS1lMmQ2LTQzYzMtOGNmYy04YjViZmRhNTczMjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.buzNi9iS4nru-860ylDFut7hHuUyZbs36mhPqOCUf7o
 Review: Inside is a dark, atmospheric puzzle-platformer that masterfully blends storytelling, gameplay, and visual design. Its tense atmosphere, innovative puzzles, and memorable narrative make it a standout title. A haunting and unforgettable experience for fans of atmospheric games.
 
 ---
 
 Title: Papers, Please
 Year: 2013
-ImageUrl: https://example.com/papers-please-poster.jpg
+ImageUrl: https://i.pinimg.com/564x/88/e9/e4/88e9e4469e1d60ee773f4bf940140846.jpg
 Review: Papers, Please is a thought-provoking, dystopian simulation game that puts players in the role of an immigration officer. Its engaging mechanics, morally complex choices, and minimalist aesthetic make it a standout title. A must-play for fans of political commentary and unique gameplay experiences.
 
 ---
+
