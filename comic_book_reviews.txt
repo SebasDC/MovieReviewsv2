@@ -168,42 +168,49 @@ Review: Berserk is a dark, brutal fantasy epic with complex characters and a ric
 
 Title: Ronin
 Year: 1983
-ImageUrl: https://example.com/ronin-poster.jpg
+ImageUrl: https://i.pinimg.com/originals/d7/34/d7/d734d7489930bf8c0a11dea03c5762b4.jpg
 Review: Ronin is a visually striking, genre-blending tale that combines elements of samurai and cyberpunk. Its atmospheric storytelling and innovative artwork make it a standout series. A unique and memorable comic book.
 
 ---
 
 Title: Sin City
 Year: 1991
-ImageUrl: https://example.com/sin-city-poster.jpg
+ImageUrl: https://media.artsper.com/artwork/1737114_1_m.jpg
 Review: Sin City is a gritty, noir-inspired series set in a dark and unforgiving world. Its stark black-and-white artwork and compelling stories make it a classic. A must-read for fans of crime fiction and noir.
 
 ---
 
 Title: 300
 Year: 1998
-ImageUrl: https://example.com/300-poster.jpg
+ImageUrl: https://m.media-amazon.com/images/I/81op9pOavEL.jpg
 Review: 300 is a visually stunning, stylized retelling of the Battle of Thermopylae. Its dynamic artwork and gripping narrative make it an iconic series. A powerful and evocative work of historical fiction.
 
 ---
 
 Title: Tokyo Ghost
 Year: 2015
-ImageUrl: https://example.com/tokyo-ghost-poster.jpg
+ImageUrl: https://www.normaeditorial.com/upload/media/albumes/0001/06/thumb_5229_albumes_big.jpeg
 Review: Tokyo Ghost is a visually arresting, cyberpunk series that explores themes of addiction and escapism. Its engaging story and stunning artwork make it a standout comic. A must-read for fans of dystopian fiction.
 
 ---
 
 Title: Black Science
 Year: 2013
-ImageUrl: https://example.com/black-science-poster.jpg
+ImageUrl: https://images.saymedia-content.com/.image/t_share/MTc0NDM2OTQ2MzY4OTk2OTk4/review-of-black-science-volume-4-godworld.jpg
 Review: Black Science is a mind-bending, sci-fi adventure with a rich, multiverse-spanning narrative. Its complex characters and stunning artwork make it an engrossing series. A thrilling and imaginative journey through the unknown.
 
 ---
 
 Title: Hellboy
 Year: 1993
-ImageUrl: https://example.com/hellboy-poster.jpg
+ImageUrl: https://www.hollywoodreporter.com/wp-content/uploads/2017/11/hellboy_mike_mignola_1_cover_-_publicity_-_embed_2017.jpg?w=603
 Review: Hellboy is a dark, supernatural series with a rich mythos and an unforgettable protagonist. Its moody atmosphere and captivating storytelling make it a classic. A must-read for fans of horror and folklore.
+
+---
+
+Title: Spawn
+Year: 1992
+ImageUrl: https://preview.redd.it/8270gguv62q71.jpg?auto=webp&s=b3f48dfdad60701f7cfa11dba6e9302fa5c03498
+Review: Spawn is a dark, supernatural series that blends elements of horror, action, and gritty urban fantasy. Its iconic protagonist, rich mythology, and captivating storytelling make it a standout comic. A must-read for fans of antiheroes and tales of redemption.
 
 ---
