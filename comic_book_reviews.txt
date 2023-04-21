@@ -36,11 +36,97 @@ Review: Paper Girls is an engaging, time-bending sci-fi adventure with a strong 
 Title: El Incal
 Year: 1988
 ImageUrl: https://m.media-amazon.com/images/I/81FaRzlZ65L.jpg
-Review: This is a sample review for another movie.
+Review: El Incal is a visually stunning, groundbreaking science fiction epic that explores themes of spirituality and destiny. Its intricate narrative and mesmerizing artwork by Moebius make it a classic. A must-read for fans of visionary, genre-defining storytelling.
 
 ---
 
 Title: Punk Rock Jesus
 Year: 2013
 ImageUrl: https://m.media-amazon.com/images/I/81PtTcwYMqL.jpg
-Review: An incredible story of hope and friendship. Beautifully crafted with stunning performances. TBC
+Review: Punk Rock Jesus is a thought-provoking, genre-defying series that blends elements of science fiction, religion, and punk culture. Its engaging story, complex characters, and striking black-and-white artwork make it a standout comic. A bold and daring exploration of faith, identity, and rebellion.
+
+---
+
+Title: Tank Girl
+Year: 1988
+ImageUrl: https://example.com/tank-girl-poster.jpg
+Review: Tank Girl is a wildly inventive, punk-inspired series with a unique sense of humor and style. Its anarchic storytelling and distinctive artwork make it a cult classic. A chaotic and entertaining romp for mature readers.
+
+---
+
+Title: Sandman
+Year: 1989
+ImageUrl: https://example.com/sandman-poster.jpg
+Review: Sandman is a groundbreaking series that masterfully weaves mythology, history, and dream logic. Its rich narrative and unforgettable characters make it an essential read. A hauntingly beautiful and deeply imaginative work of fiction.
+
+---
+
+Title: V for Vendetta
+Year: 1982
+ImageUrl: https://example.com/v-for-vendetta-poster.jpg
+Review: V for Vendetta is a powerful, thought-provoking exploration of oppression, revolution, and the human spirit. Its engaging story and striking artwork make it a classic. A must-read for fans of dystopian fiction and political allegory.
+
+---
+
+Title: Swamp Thing
+Year: 1984
+ImageUrl: https://example.com/swamp-thing-poster.jpg
+Review: Swamp Thing is a rich, atmospheric series that delves into the heart of nature, humanity, and horror. Its evocative storytelling and lush artwork make it a standout comic. A compelling and poetic journey into the unknown.
+
+---
+
+Title: The House on the Lake
+Year: 2021
+ImageUrl: https://example.com/the-house-on-the-lake-poster.jpg
+Review: The House on the Lake is a gripping, psychological thriller with a chilling atmosphere. Its intricate plot and moody artwork make it a standout series. A tense and enthralling mystery that keeps readers on edge.
+
+---
+
+Title: Prophet
+Year: 2012
+ImageUrl: https://example.com/prophet-poster.jpg
+Review: Prophet is a visually striking, futuristic series with a unique and engaging protagonist. Its imaginative storytelling and detailed artwork make it a standout title from Image Comics. A captivating and thought-provoking journey through a strange new world.
+
+---
+
+Title: Providence
+Year: 2015
+ImageUrl: https://example.com/providence-poster.jpg
+Review: Providence is a masterful, Lovecraftian horror series that delves deep into cosmic dread and psychological terror. Its intricate narrative and atmospheric artwork make it a hauntingly engrossing read. A chilling and immersive experience for fans of the horror genre.
+
+---
+
+Title: Necronomicon
+Year: 2008
+ImageUrl: https://example.com/necronomicon-poster.jpg
+Review: Necronomicon is a dark, Lovecraft-inspired series that explores the terrifying mythos of the ancient grimoire. Its eerie storytelling and detailed artwork create a gripping and unsettling atmosphere. A spine-chilling read for fans of cosmic horror.
+
+---
+
+Title: Watchmen
+Year: 1986
+ImageUrl: https://example.com/watchmen-poster.jpg
+Review: Watchmen is a groundbreaking, genre-defining series that reimagines the superhero mythos in a dark and complex world. Its engaging story, unforgettable characters, and innovative artwork make it a classic. A must-read for fans of thought-provoking, mature storytelling.
+
+---
+
+Title: Rashomon
+Year: 2017
+ImageUrl: https://example.com/rashomon-poster.jpg
+Review: Rashomon is a visually stunning adaptation of Akutagawa's classic short stories, exploring themes of truth and perception. Its evocative artwork and engaging narrative make it a standout series. A captivating and artistic homage to a literary masterpiece.
+
+---
+
+Title: Kaiju No. 8
+Year: 2020
+ImageUrl: https://example.com/kaiju-no-8-poster.jpg
+Review: Kaiju No. 8 is an action-packed manga that blends elements of science fiction, horror, and humor. Its engaging characters and dynamic artwork make it a standout series. A thrilling and entertaining read for fans of monster-fighting adventures.
+
+---
+
+Title: Chainsaw Man
+Year: 2018
+ImageUrl: https://example.com/chainsaw-man-poster.jpg
+Review: Chainsaw Man is a dark, action-packed series with a unique blend of horror, comedy, and heart. Its compelling story, unforgettable characters, and stylish artwork make it a standout manga. A wild, unpredictable ride that keeps readers on the edge of their seats.
+
+---
